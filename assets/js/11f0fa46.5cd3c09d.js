@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2342],{3726:u=>{u.exports=JSON.parse('{"label":"docusaurus-v2","permalink":"/hg-docusaurus-laufai-public-deoloy-github/blog/tags/docusaurus-v-2","allTagsPath":"/hg-docusaurus-laufai-public-deoloy-github/blog/tags","count":1,"unlisted":false}')}}]);
