@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laufais.github.io/blog</id>
-    <title>马小灰 Blog</title>
+    <title>ᕕ( ᐛ )ᕗ I am summer e Blog</title>
     <updated>2024-03-03T05:06:36.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://laufais.github.io/blog"/>
-    <subtitle>马小灰 Blog</subtitle>
+    <subtitle>ᕕ( ᐛ )ᕗ I am summer e Blog</subtitle>
     <icon>https://laufais.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome Docusaurus v2]]></title>
