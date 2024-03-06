@@ -4,10 +4,25 @@
         <title>ᕕ( ᐛ )ᕗ I am summer e Blog</title>
         <link>http://summer-e.top/blog</link>
         <description>ᕕ( ᐛ )ᕗ I am summer e Blog</description>
-        <lastBuildDate>Sun, 03 Mar 2024 05:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 12:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[Recently]]></title>
+            <link>http://summer-e.top/blog/recently</link>
+            <guid>http://summer-e.top/blog/recently</guid>
+            <pubDate>Wed, 06 Mar 2024 12:26:55 GMT</pubDate>
+            <description><![CDATA[测试：写作是一种来自现实的映射]]></description>
+            <content:encoded><![CDATA[<p>测试：写作是一种来自现实的映射</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome Docusaurus v2]]></title>
             <link>http://summer-e.top/blog/welcome-docusaurus-v2</link>

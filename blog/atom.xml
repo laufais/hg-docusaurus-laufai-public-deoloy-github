@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://summer-e.top/blog</id>
     <title>ᕕ( ᐛ )ᕗ I am summer e Blog</title>
-    <updated>2024-03-03T05:06:36.000Z</updated>
+    <updated>2024-03-06T12:26:55.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://summer-e.top/blog"/>
     <subtitle>ᕕ( ᐛ )ᕗ I am summer e Blog</subtitle>
     <icon>http://summer-e.top/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Recently]]></title>
+        <id>http://summer-e.top/blog/recently</id>
+        <link href="http://summer-e.top/blog/recently"/>
+        <updated>2024-03-06T12:26:55.395Z</updated>
+        <summary type="html"><![CDATA[测试：写作是一种来自现实的映射]]></summary>
+        <content type="html"><![CDATA[<p>测试：写作是一种来自现实的映射</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>夏漱鹅</name>
+            <uri>https://mynote.montaigne.io</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome Docusaurus v2]]></title>
         <id>http://summer-e.top/blog/welcome-docusaurus-v2</id>
